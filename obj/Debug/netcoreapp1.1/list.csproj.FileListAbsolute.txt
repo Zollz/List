@@ -1,0 +1,9 @@
+C:\Users\Eddie\Documents\Coding\List\bin\Debug\netcoreapp1.1\list.deps.json
+C:\Users\Eddie\Documents\Coding\List\bin\Debug\netcoreapp1.1\list.runtimeconfig.json
+C:\Users\Eddie\Documents\Coding\List\bin\Debug\netcoreapp1.1\list.runtimeconfig.dev.json
+C:\Users\Eddie\Documents\Coding\List\bin\Debug\netcoreapp1.1\list.dll
+C:\Users\Eddie\Documents\Coding\List\bin\Debug\netcoreapp1.1\list.pdb
+C:\Users\Eddie\Documents\Coding\List\obj\Debug\netcoreapp1.1\list.csprojResolveAssemblyReference.cache
+C:\Users\Eddie\Documents\Coding\List\obj\Debug\netcoreapp1.1\list.AssemblyInfo.cs
+C:\Users\Eddie\Documents\Coding\List\obj\Debug\netcoreapp1.1\list.dll
+C:\Users\Eddie\Documents\Coding\List\obj\Debug\netcoreapp1.1\list.pdb
